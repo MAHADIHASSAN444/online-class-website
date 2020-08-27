@@ -1,0 +1,30 @@
+.full-topic{
+    display: flex;
+    border-bottom:1px solid lightgrey;
+    margin-bottom: 5px;
+    margin-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+}
+.corses-info{
+    padding-left: 10px;
+}
+.topic-name{
+    color: blue;
+    font-width: 700;
+    padding-left: 10px;
+}
+img{
+    height: 200px;
+    width: 250px;
+}
+.enrole-now{
+    background-color:goldenrod;
+    width:150px;
+    border:1px solid darkgrey;
+    border-radius: 5px;
+
+}
+body{
+    background-color: cyan;
+}

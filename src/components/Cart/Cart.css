@@ -1,0 +1,13 @@
+.cart-container{
+    padding-left: 5px;
+    padding-right:5px;
+    background-color: tomato;
+
+}
+.happy-learning{
+    background-color: rgb(68, 3, 3) ;
+    border-radius: 5px;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
